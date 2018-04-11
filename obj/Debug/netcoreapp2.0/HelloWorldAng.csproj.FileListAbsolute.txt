@@ -1,0 +1,10 @@
+C:\Users\Wellington\Documents\Repos\HelloWorldAng\bin\Debug\netcoreapp2.0\HelloWorldAng.deps.json
+C:\Users\Wellington\Documents\Repos\HelloWorldAng\bin\Debug\netcoreapp2.0\HelloWorldAng.runtimeconfig.json
+C:\Users\Wellington\Documents\Repos\HelloWorldAng\bin\Debug\netcoreapp2.0\HelloWorldAng.runtimeconfig.dev.json
+C:\Users\Wellington\Documents\Repos\HelloWorldAng\bin\Debug\netcoreapp2.0\HelloWorldAng.dll
+C:\Users\Wellington\Documents\Repos\HelloWorldAng\bin\Debug\netcoreapp2.0\HelloWorldAng.pdb
+C:\Users\Wellington\Documents\Repos\HelloWorldAng\obj\Debug\netcoreapp2.0\HelloWorldAng.csproj.CoreCompileInputs.cache
+C:\Users\Wellington\Documents\Repos\HelloWorldAng\obj\Debug\netcoreapp2.0\HelloWorldAng.AssemblyInfoInputs.cache
+C:\Users\Wellington\Documents\Repos\HelloWorldAng\obj\Debug\netcoreapp2.0\HelloWorldAng.AssemblyInfo.cs
+C:\Users\Wellington\Documents\Repos\HelloWorldAng\obj\Debug\netcoreapp2.0\HelloWorldAng.dll
+C:\Users\Wellington\Documents\Repos\HelloWorldAng\obj\Debug\netcoreapp2.0\HelloWorldAng.pdb
